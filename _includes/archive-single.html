@@ -48,7 +48,20 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
+    {% if post.img %}
+      <div style="display: flex; align-items: center; justify-content: space-between;">
+        <div style="width: 80%;">
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        </div>
+        
+          <img src="{{ post.img }}" alt="{{ post.title }}"
+            style="height: 160px; object-fit: contain; width: 200px;">
+
+      </div>
+
+    {% else %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
