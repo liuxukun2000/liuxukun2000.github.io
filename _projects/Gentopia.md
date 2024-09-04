@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Draft-Verification for Efficient Large Language Model Decoding"
+title: "Gentopia"
 collection: projects
 authors: 'Xukun Liu, Bowen Lie, Ruqi Zhang, Dongkuan Xu'
 permalink: /projects/2024-adaptive-draft-verification
