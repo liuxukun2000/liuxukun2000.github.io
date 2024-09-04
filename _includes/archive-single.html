@@ -74,6 +74,8 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% elsif post.tags %} 
+      <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ post.tags }}</h2>
     {% endif %}
 
   </article>
