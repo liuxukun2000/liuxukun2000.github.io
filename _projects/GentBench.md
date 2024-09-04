@@ -2,9 +2,9 @@
 title: "GentBench"
 collection: projects
 permalink: /projects/gentbench
-excerpt: 'Benchmark and Evaluation for Gentopia.'
+excerpt: 'Benchmark and Evaluation for Gentopia. A good ALM Benchmark should aim to solve problems and tasks hard/unsolvable by LLMs (else there's no meaning to pay tool tax). Tasks in Gentbench will be half-public and half-private. We open-source a demonstrative public benchmark to encourage agent tuning, but will use a private bench (of similar distribution) for fair eval.'
 date: 2024-6-27
-img: '/images/gentopia.png'
+img: 'https://github.com/Gentopia-AI/GentBench/assets/65674752/d5b3553c-9787-4ff2-a282-ac0fd471454e'
 tags: ['Large Language Model(LLM)', 'Retrieval-Augmented Generation(RAG)', 'LLM Evaluation', 'Benchmark']
 ---
 
