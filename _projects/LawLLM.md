@@ -1,8 +1,8 @@
 ---
 title: "LawLLM: Law Large Language Model for the US Legal System"
-collection: publications
+collection: projects
 authors: 'Dong Shu, Haoran Zhao, Xukun Liu, David Demeter, Mengnan Du, Yongfeng Zhang'
-permalink: /publication/2024-lawllm
+permalink: /projects/2024-lawllm
 excerpt: 'We introduce LawLLM, a multi-task model designed for the US legal domain, excelling in Similar Case Retrieval (SCR), Precedent Case Recommendation (PCR), and Legal Judgment Prediction (LJP). LawLLM distinguishes between similar and precedent cases, providing clarity for future research. We apply customized data preprocessing, in-context learning, and advanced information retrieval methods to transform raw legal data into a trainable format. LawLLM outperforms existing baselines in zero-shot and few-shot scenarios, addressing key challenges in legal analytics.'
 date: 2024-6-20
 paperurl: 'https://arxiv.org/abs/2407.21065'
