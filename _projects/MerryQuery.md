@@ -1,5 +1,5 @@
 ---
-title: "GentBench"
+title: "Merry Query"
 collection: projects
 permalink: /projects/merryquery
 excerpt: 'MerryQuery is an AI-powered educational assistant that utilizes retrieval-augmented generation (RAG) to provide students with tailored responses based on course materials.This tool is designed to support both teachers and students
