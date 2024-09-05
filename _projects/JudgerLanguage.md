@@ -2,9 +2,9 @@
 title: "Domain Specific Language for Online Judger"
 collection: projects
 permalink: /projects/jcoderdsl
-excerpt: 'JCoder a scalable online judge system to evaluate code correctness across multiple programming languages including C/C++, Java, JUnit, SQL, Python, MIPS and Verilog. The system passed third-party penetration testing and is now officially used by the Computer Science Department at Southern University of Science and Technology (SUSTech) , serving over 3,500 students in 13 courses.'
+excerpt: 'The Domain Specific Language for Online Judger is a DSL implemented using macros in Rust. It allows users without any Rust or programming knowledge to define evaluation tasks using simple statements. This DSL supports a variety of functions, including defining file systems, setting up runtime environments (such as nsjail, Docker, VMs), and specifying tasks. The compiler translates this DSL into Rust code for execution, ensuring high operational efficiency.'
 date: 2023-6-27
-tags: ['Domain Specific Language(DSL)', 'Security', 'Remote procedure call(RPC)', 'K8S', 'Docker', 'Sandbox', 'Database', 'Frontend', 'Backend']
+tags: ['Domain Specific Language(DSL)', 'Security', 'Remote procedure call(RPC)', 'K8S', 'Docker', 'Sandbox', 'Rust', 'Compiler']
 ---
 
-JCoder a scalable online judge system to evaluate code correctness across multiple programming languages including C/C++, Java, JUnit, SQL, Python, MIPS and Verilog. The system passed third-party penetration testing and is now officially used by the Computer Science Department at Southern University of Science and Technology (SUSTech) , serving over 3,500 students in 13 courses.
+The Domain Specific Language for Online Judger is a DSL implemented using macros in Rust. It allows users without any Rust or programming knowledge to define evaluation tasks using simple statements. This DSL supports a variety of functions, including defining file systems, setting up runtime environments (such as nsjail, Docker, VMs), and specifying tasks. The compiler translates this DSL into Rust code for execution, ensuring high operational efficiency.
