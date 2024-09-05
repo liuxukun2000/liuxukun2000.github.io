@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="width: 70%;">
-        Hello! I'm <strong>Xukun Liu (刘旭坤)</strong>, a passionate computer scientist currently pursuing a Master of Computer Science at <strong>Northwestern University</strong>. My journey in computer science is driven by a deep passion for innovative solutions and the transformative power of technology. In addition to my academic pursuits, I am the <strong>co-founder and CTO of CourtAI</strong>, a venture aimed at democratizing legal advice with cutting-edge technology to provide high-quality, accessible, and affordable legal services. 
+        Hello! I'm <strong>Xukun Liu (刘旭坤)</strong>, a passionate computer science student currently pursuing a Master of Computer Science at <strong>Northwestern University</strong>. My journey in computer science is driven by a deep passion for innovative solutions and the transformative power of technology. In addition to my academic pursuits, I am the <strong>co-founder and CTO of CourtAI</strong>, a venture aimed at democratizing legal advice with cutting-edge technology to provide high-quality, accessible, and affordable legal services. 
 
         My technical expertise spans multiple programming languages including <strong>Python, Rust, C++, and Java</strong>, which I leverage to build robust and scalable solutions. I am particularly proficient in Natural Language Processing and have worked extensively with Large Language Models to enhance their efficiency and application. 
 
@@ -40,7 +40,9 @@ I am deeply interested in Natural Language Processing (NLP), Large Language Mode
 
 
 ## News and Updates
-- **🚀 Recently**: We launched *ADED*, an innovative framework designed to significantly enhance the decoding speed and efficiency of large language models. See our website [here](https://sites.google.com/view/aded-page/home)!
+- **🚀 July 2024**: We launched *ADED*, an innovative framework designed to significantly enhance the decoding speed and efficiency of large language models. See our website [here](https://sites.google.com/view/aded-page/home)!
+- **🚀 July 2024**: Our paper *LawLLM* is accepted at the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024) . See you in Boise!🌎
+- **👉 October 2023**: The companion paper of *Gentopia* was accepted by #EMNLP 23. See you in Singapore! 🦙🌎
 - **🎓 June 2023**: Started my Master's program at Northwestern University.
 - **🏅 June 2023**: Awarded Outstanding Graduate of Southern University of Science and Technology (SUSTech).
 - **🏅 June 2023**: Recognized as the Outstanding Graduate of the Computer Science Department at Southern University of Science and Technology (SUSTech).
