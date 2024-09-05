@@ -30,7 +30,7 @@ redirect_from:
   September 2019 – June 2023
 
 ## Research Interests
-I am deeply interested in Natural Language Processing (NLP), Large Language Models (LLMs), Multi-modal, and Efficient AI systems. My recent projects include Adaptive Draft-Verification for Efficient Large Language Model Decoding, ToolNet, and collaborative platforms for tool-augmented LLMs like Gentopia.AI.
+I am deeply interested in **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Multi-modal**, and **Efficient AI systems**. My recent projects include Adaptive Draft-Verification for Efficient Large Language Model Decoding, ToolNet, and collaborative platforms for tool-augmented LLMs like Gentopia.AI.
 
 ## Awards
 - **Bronze Medal** in 2020 China Collegiate Programming Contest, Mianyang Site.
