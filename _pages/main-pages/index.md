@@ -43,6 +43,7 @@ I am deeply interested in **Natural Language Processing (NLP)**, **Large Languag
 - **🚀 July 2024**: We launched *ADED*, an innovative framework designed to significantly enhance the decoding speed and efficiency of large language models. See our website [here](https://sites.google.com/view/aded-page/home)!
 - **🚀 July 2024**: Our paper *LawLLM* is accepted at the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024) . See you in Boise!🌎
 - **👉 October 2023**: The companion paper of *Gentopia* was accepted by #EMNLP 23. See you in Singapore! 🦙🌎
+- **🏅 September 2023**: Honored to a reviewer for *AAAI 2024*. Excited to contribute to this prestigious conference! 🌟
 - **🎓 June 2023**: Started my Master's program at Northwestern University.
 - **🏅 June 2023**: Awarded Outstanding Graduate of Southern University of Science and Technology (SUSTech).
 - **🏅 June 2023**: Recognized as the Outstanding Graduate of the Computer Science Department at Southern University of Science and Technology (SUSTech).
