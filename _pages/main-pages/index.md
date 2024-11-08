@@ -40,6 +40,7 @@ I am deeply interested in **Natural Language Processing (NLP)**, **Large Languag
 
 
 ## News and Updates
+- **💼 October 2024**: I Joined Eigent AI as an intern, where I’m responsible for maintaining the [Camel.AI](https://github.com/camel-ai/camel) open-source library. Thrilled to collaborate with developers from around the world!
 - **🚀 July 2024**: We launched *ADED*, an innovative framework designed to significantly enhance the decoding speed and efficiency of large language models. See our website [here](https://sites.google.com/view/aded-page/home)!
 - **🚀 July 2024**: Our paper *LawLLM* is accepted at the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024) . See you in Boise!🌎
 - **👉 October 2023**: The companion paper of *Gentopia* was accepted by #EMNLP 23. See you in Singapore! 🦙🌎
