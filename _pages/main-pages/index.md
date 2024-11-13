@@ -15,13 +15,12 @@ redirect_from:
         My technical expertise spans multiple programming languages including <strong>Python, Rust, C++, and Java</strong>, which I leverage to build robust and scalable solutions. I am particularly proficient in Natural Language Processing and have worked extensively with Large Language Models to enhance their efficiency and application. 
 
         Beyond the screen, I find joy in exploring the great outdoors, where the complexity of nature often inspires my professional creativity and problem-solving approach.
-
-        <p>I am currently seeking a **full-time PhD position for Fall 2025**, where I hope to delve deeper into cutting-edge research and continue my academic journey.</p>
     </div>
     <img src='/images/lxk.jpg' style="width: 30%;">
 </div>
 
 
+I am currently seeking a **full-time PhD position for Fall 2025**, where I hope to delve deeper into cutting-edge research and continue my academic journey.
 
 ## Academic Background
 - **Master of Computer Science**  
