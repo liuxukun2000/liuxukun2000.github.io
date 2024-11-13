@@ -2,12 +2,16 @@
 title: "Merry Query"
 collection: projects
 permalink: /projects/merryquery
-excerpt: 'MerryQuery is an AI-powered educational assistant that utilizes retrieval-augmented generation (RAG) to provide students with tailored responses based on course materials.This tool is designed to support both teachers and students
+excerpt: 'MerryQuery is an AI-powered educational assistant that utilizes retrieval-augmented generation (RAG) to provide students with tailored responses based on course materials.This tool is designed to support both teachers and students. 
 
 Teachers can input course materials, and define data controls to prevent undesirable content generation.
-Students receive responses tailored to their previous interactions and course materials with references.'
+Students receive responses tailored to their previous interactions and course materials with references.
+
+You can visit our website for more information: https://exploremq.benyamintabarsi.com/
+'
 date: 2024-8-27
 img: '/images/merryquery.png'
+paperUrl: 'https://exploremq.benyamintabarsi.com/'
 tags: ['Large Language Model(LLM)', 'Retrieval-Augmented Generation(RAG)', 'Agent', 'Frontend', 'Backend']
 ---
 
@@ -31,3 +35,5 @@ The goal of the MerryQuery agent is to allow teachers to automate answer questio
 - Agent responses are tailored to individuals according to their account information.
 - Student queries are visible to teachers.
 
+
+You can visit our website for more information: https://exploremq.benyamintabarsi.com/
