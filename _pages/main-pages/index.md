@@ -41,6 +41,7 @@ I am deeply interested in **Natural Language Processing (NLP)**, **Large Languag
 
 
 ## News and Updates
+- **🚀 Dec 2024**: Our paper *Adaptive Draft-Verification for Efficient Large Language Model Decoding* is accepted at the AAAI 2025. See you in Philadelphia!🌎
 - **🚀 Nov 2024**: Our paper *MerryQuery: A Trustworthy LLM-Powered Tool Providing Personalized Support for Educators and Students* is accepted at the AAAI 2025 Demonstration Program. See you in Philadelphia!🌎
 - **💼 October 2024**: I Joined Eigent AI as an intern, where I’m responsible for maintaining the [Camel.AI](https://github.com/camel-ai/camel) open-source library. Thrilled to collaborate with developers from around the world!
 - **🚀 July 2024**: We launched *ADED*, an innovative framework designed to significantly enhance the decoding speed and efficiency of large language models. See our website [here](https://sites.google.com/view/aded-page/home)!
