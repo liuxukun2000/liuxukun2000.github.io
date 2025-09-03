@@ -14,7 +14,7 @@ I am a **full-stack developer** and am very eager to collaborate with you on con
 [![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,py,latex,md,html,css,nodejs,php)](https://skillicons.dev)
 
 #### Frontend Development:
-[![My Skills](https://skillicons.dev/icons?i=react,js,wasm,nextjs,nginx,redux,tailwind,tauri,vite,yarn,yew,cloudflare,npm,electron,firebase,figma,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,wasm,nextjs,nginx,redux,tailwind,tauri,vite,yarn,yew,cloudflare,npm,electron,firebase,figma,materialui,bootstrap,webpack,tailwindcss)](https://skillicons.dev)
 
 #### Backend Development:
 [![My Skills](https://skillicons.dev/icons?i=rocket,django,fastapi,flask,actix)](https://skillicons.dev)

@@ -20,7 +20,6 @@ redirect_from:
 </div>
 
 
-I am currently seeking a **full-time PhD position for Fall 2025**, where I hope to delve deeper into cutting-edge research and continue my academic journey.
 
 ## Academic Background
 - **Master of Computer Science**  
